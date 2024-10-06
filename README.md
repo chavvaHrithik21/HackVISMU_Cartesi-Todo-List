@@ -1,1 +1,1 @@
-# HackVSMU_Cartesi-Todo-List
+# HackViSMU_Cartesi-Todo-List
