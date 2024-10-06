@@ -36,7 +36,7 @@ The Cartesi Todo List is a decentralized task management application that harnes
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/cartesi-todo-list.git](https://github.com/chavvaHrithik21/HackViSMU_Cartesi-Todo-List.git
+   git clone https://github.com/chavvaHrithik21/HackViSMU_Cartesi-Todo-List.git
    cd cartesi-todo-list
    ```
 
